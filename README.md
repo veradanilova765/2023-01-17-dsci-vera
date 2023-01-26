@@ -5,3 +5,4 @@ Intro Demo
 - `git add <FILE>`: adds file to staging area
 - `git commit`: create the commmit (aka snapshot)
 - `git commit -m “message”`: creats git message directly in the command line (simpler) 
+- `git push origin main`: sends code from branch `main` local computer to the remote `origin` 
